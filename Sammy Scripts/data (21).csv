@@ -1,0 +1,78 @@
+﻿Event Index,UTC Timestamp,UTC Date and Time,Local Timestamp,Local Timezone,Local Date and Time,Experiment ID,Experiment Version,Tree Node Key,Repeat Key,Schedule ID,Participant Public ID,Participant Private ID,Participant Starting Group,Participant Status,Participant Completion Code,Participant External Session ID,Participant Device Type,Participant Device,Participant OS,Participant Browser,Participant Monitor Size,Participant Viewport Size,Checkpoint,Room ID,Room Order,Task Name,Task Version,Spreadsheet,Current Spreadsheet,Trial Number,Display,Screen,Screen ID,Screen Counter,Response Type,Response,Onset Time,Clock Time,Reaction Time,Absolute Onset Time,Absolute Clock Time,Absolute Reaction Time,Correct,Response Onset,Response Duration,Proportion,Tag,Component Name,Object Name,Object Number,Object ID,user_message,bot_message,user_session,Spreadsheet: display,Manipulation: Spreadsheet
+1,1736243467229,07/01/2025 09:51:07,1736243467229,0,07/01/2025 09:51:07,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,info,BEGIN,,,,,,,0,,,,,,,,,,,,,
+2,1736243470908,07/01/2025 09:51:10,1736243470908,0,07/01/2025 09:51:10,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,,,,
+3,1736243470996,07/01/2025 09:51:10,1736243470996,0,07/01/2025 09:51:10,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,,dfMessenger-b505d89f-9801-41ca-802f-58c42e6aed84,,
+4,1736243471047,07/01/2025 09:51:11,1736243471047,0,07/01/2025 09:51:11,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,,dfMessenger-54c19339-8d58-4193-9bca-cad4fd876847,,
+5,1736243471148,07/01/2025 09:51:11,1736243471148,0,07/01/2025 09:51:11,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,7,,,,
+6,1736243473671,07/01/2025 09:51:13,1736243473671,0,07/01/2025 09:51:13,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,"Hi Sammy, my name is Penny, and I'm your AI financial companion from Lloyds Bank.  We've noticed you have a significant amount of cash in your account, and I wanted to reach out and see if you'd be open to exploring some options to help your money grow.  It's great that you've saved so diligently!  We can look at things like ISAs, different investment options, and savings accounts to see what might be a good fit for you. Would you like to explore these possibilities together?
+",,,
+7,1736243502228,07/01/2025 09:51:42,1736243502228,0,07/01/2025 09:51:42,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,"That sounds like a great idea, Penny! I'd love to explore some options to help my money grow. What do you suggest we start with?",,,,
+8,1736243504326,07/01/2025 09:51:44,1736243504326,0,07/01/2025 09:51:44,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,"That's fantastic, Sammy!  Let's start with your instant access savings account.  It's great you already have £22,000 saved.  This type of account offers easy access to your money, which is beneficial for emergencies. However,  your money might grow faster in other accounts.  Would you like to explore some alternative savings options?
+",,,
+9,1736243536480,07/01/2025 09:52:16,1736243536480,0,07/01/2025 09:52:16,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,"Sure, Penny! I'm open to exploring alternative savings options. What do you recommend?",,,,
+10,1736243542382,07/01/2025 09:52:22,1736243542382,0,07/01/2025 09:52:22,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,"Let's look at a few options:
+
+* **Cash ISAs:** These are tax-free savings accounts where the interest you earn isn't taxed.  This means more of your money grows.
+
+* **Fixed-Term Savings Accounts:**  With these, you agree to keep your money in the account for a specific period (like a year or more).  In return, you usually get a higher interest rate than with instant-access accounts.
+
+* **Regular Saver Accounts:** These accounts often require you to deposit a set amount each month. They usually offer a better interest rate than standard instant-access accounts.
+
+
+Would you like to learn more about Cash ISAs?
+",,,
+11,1736243567700,07/01/2025 09:52:47,1736243567700,0,07/01/2025 09:52:47,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,"Yes, I'd love to learn more about Cash ISAs. How do they work, and what are the benefits?",,,,
+12,1736243572869,07/01/2025 09:52:52,1736243572869,0,07/01/2025 09:52:52,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,"Cash ISAs are tax-free savings accounts where the interest you earn isn't taxed. This means more of your money grows. You can pay up to £20,000 into a combination of permitted ISAs each tax year.  You can withdraw money from a Cash ISA without it affecting your tax-free allowance, as long as you pay the funds back in within the same tax year.  Would you like me to share a link to learn more about Cash ISAs on the Lloyds Bank website?
+",,,
+13,1736243599012,07/01/2025 09:53:19,1736243599012,0,07/01/2025 09:53:19,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,"That sounds really beneficial! Yes, please share the link so I can learn more about Cash ISAs. Thanks, Penny!",,,,
+14,1736243605102,07/01/2025 09:53:25,1736243605102,0,07/01/2025 09:53:25,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,Here is the link you requested:,,,
+15,1736243630353,07/01/2025 09:53:50,1736243630353,0,07/01/2025 09:53:50,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,"Thanks for the link, Penny! I appreciate the information on Cash ISAs. 
+
+I would like to do a digi-advice journey.",,,,
+16,1736243632320,07/01/2025 09:53:52,1736243632320,0,07/01/2025 09:53:52,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,"That's great, Sammy! We've just looked at Cash ISAs –  tax-free savings accounts where the interest you earn isn't taxed, letting your money grow faster. You can contribute up to £20,000 a year and withdraw money without affecting your allowance (as long as you pay it back within the tax year).
+
+Now, what would you like to do next?
+
+1. Are you happy to end our conversation here? (Reply with: 'I am happy to finish here')
+2. Would you prefer to discuss a different financial topic? (Reply with: 'I would like to talk about something new')
+3. Would you like to start a guided advice journey to explore suitable financial products? This is a rules-based process involving a series of questions to determine the best option for you. (Reply with: 'I would like to do a digi-advice journey')
+",,,
+17,1736243661697,07/01/2025 09:54:21,1736243661697,0,07/01/2025 09:54:21,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,I would like to talk about something new.,,,,
+18,1736243663303,07/01/2025 09:54:23,1736243663303,0,07/01/2025 09:54:23,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,"Okay, Sammy, what other financial topic would you like to discuss?  Perhaps we could look at fixed-term savings accounts or regular saver accounts?  These offer different ways to save and potentially earn higher interest than your instant access account.  Which would you prefer to learn about?
+",,,
+19,1736243692979,07/01/2025 09:54:52,1736243692979,0,07/01/2025 09:54:52,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,"Let's start with fixed-term savings accounts. How do they work, and what are the benefits?",,,,
+20,1736243699046,07/01/2025 09:54:59,1736243699046,0,07/01/2025 09:54:59,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,1014x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,Here is the link you requested:,,,
+21,1736243724866,07/01/2025 09:55:24,1736243724866,0,07/01/2025 09:55:24,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,974x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,"Here is the link you requested:
+
+",,,,
+22,1736243729609,07/01/2025 09:55:29,1736243729609,0,07/01/2025 09:55:29,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,974x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,"With a fixed-term savings account, you agree to leave your money in the account for a set period, like one year or more.  In return, you'll usually receive a higher interest rate than with an instant-access account. This means your money could grow faster.  The interest rate is fixed for the term you choose, so you know exactly how much interest you'll earn.  However, remember you won't be able to access your money easily during that time. Would you like me to share a link with more information on Lloyds Bank's fixed-term savings accounts?
+",,,
+23,1736243756417,07/01/2025 09:55:56,1736243756417,0,07/01/2025 09:55:56,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,974x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,"Sure, here's a reply for you:
+
+---
+
+Hi Sammy,
+
+We've just discussed fixed-term savings accounts. These accounts offer a higher interest rate than instant-access accounts in exchange for keeping your money invested for a set period. 
+
+To proceed, please let me know which option best suits you:
+
+1. Are you happy to end our conversation here? (Reply with: 'I am happy to finish here')
+2. Would you prefer to discuss a different financial topic? (Reply with: 'I would like to talk about something new')
+3. Would you like to start a guided advice journey to explore suitable financial products? This is a rules-based process involving a series of questions to determine the best option for you. (Reply with: 'I would like to do a digi-advice journey')
+
+---
+
+Feel free to adjust it as needed!",,,,
+24,1736243758354,07/01/2025 09:55:58,1736243758354,0,07/01/2025 09:55:58,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,974x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,"Hi Sammy,
+
+We've just discussed fixed-term savings accounts, where you agree to keep your money in the account for a set period to earn a higher interest rate than with an instant-access account.  The interest rate is fixed for the term, giving you certainty on your returns, but remember, your money won't be easily accessible during that time.
+
+To proceed, please let me know which option best suits you:
+
+1. Are you happy to end our conversation here? (Reply with: 'I am happy to finish here')
+2. Would you prefer to discuss a different financial topic? (Reply with: 'I would like to talk about something new')
+3. Would you like to start a guided advice journey to explore suitable financial products? This is a rules-based process involving a series of questions to determine the best option for you. (Reply with: 'I would like to do a digi-advice journey')
+",,,
+25,1736243791153,07/01/2025 09:56:31,1736243791153,0,07/01/2025 09:56:31,0,0,,,42306590,,12350682,,live,,,computer,Desktop or Laptop,Windows 10,Edge 131.0.0.0,2048x1112,974x980,,,0,React App Lucy testing Sammy,3,Spreadsheet1,Spreadsheet1,,,,,,,,,,,,,,0,,,,,,,,,,,,,
+END OF FILE
